@@ -2,6 +2,8 @@
 
 ### If the c++ file is `main.cpp`
 
+---
+
 `gcc main.cpp -lstdc++`
 
 ### This will create a file `a.exe`
