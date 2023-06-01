@@ -17,3 +17,19 @@
 ---
 
 ### `-lstdc++` is used to change the linker to c++ linker, since we are working with c++
+
+# Compiling a Java Program Using JDK
+
+### If the java file is `Main.java`
+
+---
+
+`javac Main.java`
+
+### This will create a file `Main.class`
+
+### To run this `Main.class` file
+
+---
+
+`java Main.class`
