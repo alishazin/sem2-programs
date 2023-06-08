@@ -40,5 +40,7 @@ public class Main {
 
         TimeThread R2 = new TimeThread("Thread-2", 1);
         R2.start();
+
+        System.out.println("Main Thread Message");
     }
 };
